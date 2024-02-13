@@ -1,0 +1,62 @@
+.header {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  margin-bottom: 2.5rem;
+
+  .editBtn {
+    width: 3.5rem;
+    height: 3.5rem;
+    margin-top: 0;
+    font-size: 1.5rem;
+
+    .pen {
+      text-align: center;
+    }
+  }
+
+  @media screen and (min-width: 768px) {
+    align-items: center;
+  }
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+
+  @media screen and (min-width: 768px) {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 15px;
+  }
+
+  .content {
+    text-align: center;
+    padding: 5px;
+    border: 1px solid rgba(63, 6, 67, 0.269);
+    box-shadow: 2px 2px 1px 1px rgba(0, 0, 255, 0.2);
+    margin-bottom: 10px;
+    border-radius: 3px;
+
+    @media screen and (min-width: 768px) {
+      border: 1px solid rgba(63, 6, 67, 0.269);
+      box-shadow: 6px 6px 2px 1px rgba(0, 0, 255, 0.2);
+    }
+  }
+
+  .pieChart {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    max-height: 450px;
+
+    @media screen and (min-width: 768px) {
+      padding: 20px;
+    }
+  }
+
+  .buttons {
+    display: flex;
+    flex-direction: column;
+  }
+}

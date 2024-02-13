@@ -1,0 +1,60 @@
+{
+  "animalShelters": [
+    {
+      "id": 1,
+      "name": "Tierheim-Alster",
+      "contactPerson": "Lisa Muster",
+      "budget": "60.000€",
+      "employees": 20,
+      "dogs": 8,
+      "cats": 5,
+      "rodents": 10,
+      "birds": 2,
+      "other": 1,
+      "image": "tierheimA.jpg",
+      "address": "23561 Musterstadt, Berliner Straße 2",
+      "animals": {
+        "january": 20,
+        "february": 30,
+        "march": 27,
+        "april": 25,
+        "may": 17,
+        "june": 15,
+        "july": 14,
+        "august": 10,
+        "september": 20,
+        "october": 22,
+        "november": 23,
+        "december": 18
+      }
+    },
+    {
+      "id": 2,
+      "name": "Tierheim-Bieber",
+      "contactPerson": "Jan Müller",
+      "budget": "85.000€",
+      "employees": 30,
+      "dogs": 15,
+      "cats": 10,
+      "rodents": 12,
+      "birds": 4,
+      "other": 2,
+      "image": "tierheimB.jpg",
+      "address": "56784 Musterhausen, Berliner Straße 6",
+      "animals": {
+        "january": 25,
+        "february": 35,
+        "march": 30,
+        "april": 23,
+        "may": 20,
+        "june": 30,
+        "july": 19,
+        "august": 10,
+        "september": 30,
+        "october": 33,
+        "november": 30,
+        "december": 31
+      }
+    }
+  ]
+}

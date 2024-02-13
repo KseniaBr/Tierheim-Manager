@@ -1,0 +1,9 @@
+.section {
+  word-wrap: break-word;
+  margin: 2rem;
+  min-height: calc(100vh - 142.5px);
+
+  @media screen and (min-width: 768px) {
+    margin: 2rem 5rem;
+  }
+}
