@@ -25,7 +25,7 @@ Tierheime werden mit Daten aus einer JSON-Datei befüllt.
 - MERN-Stack
 - axios 
 - mongoose 
-- sass
+- scss
 - mui
 - chart.js
 - bcryptjs
