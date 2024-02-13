@@ -1,6 +1,7 @@
 # Tierheim-Manager
-Mein Ziel: 
-- Eine App für die Tierheimverwaltung erstellen, um Informationen verwalten und auswerten lassen zu können.
+
+### Ziel
+Eine App für die Tierheimverwaltung erstellen, um Informationen verwalten und auswerten lassen zu können.
 
 ### Projektbeschreibung
 Um auf die App gelangen zu können, muss man sich zuerst einloggen. 
