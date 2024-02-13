@@ -2,7 +2,7 @@
 Mein Ziel: 
 - Eine App für die Tierheimverwaltung erstellen, um Informationen verwalten und auswerten lassen zu können.
 
-## Projektbeschreibung
+### Projektbeschreibung
 Um auf die App gelangen zu können, muss man sich zuerst einloggen. 
 Der User wurde in einer Datenbank (MongoDB) gespeichert. 
 Unter Organisationen werden jeweils die Tierheime angezeigt. 
